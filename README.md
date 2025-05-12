@@ -22,7 +22,7 @@ This app is a small tribute to every mom — for her endless love, strength, and
 
 ## 📸 Demo
 
-(https://i.imgur.com/b941U7k.gif)
+(https://i.imgur.com/OFLUY3g.gif)
 
 ---
 
